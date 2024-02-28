@@ -12,6 +12,7 @@ https://docs.djangoproject.com/en/3.2/ref/settings/
 
 from pathlib import Path
 import os
+
 # SETTINGS_PATH = os.path.dirname(os.path.dirname(__file__))
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -29,7 +30,6 @@ DEBUG = True
 ALLOWED_HOSTS = [
     '8000-dmascoredec-boutiqueado-8rktdoy81av.ws-eu108.gitpod.io',
 ]
-
 
 # Application definition
 
